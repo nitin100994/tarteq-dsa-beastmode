@@ -1,3 +1,6 @@
+
+![graphTimeSpaceComplexity](https://github.com/user-attachments/assets/a6eff3f0-2cc2-4102-8860-4ec000dd188b)
+
 The Cost of Every Step – For Arya
 
 Hey Pooja,
