@@ -1,64 +1,118 @@
-# DSA Kickstart – Read This First
+00 – DSA Roadmap Overview (Crafted for Arya)
 
-**Hey Arya,**
+Hey Arya,
 
-We’re officially stepping into the world of **Data Structures and Algorithms** — but not in the boring, robotic way they teach it in coaching centers or YouTube videos.
+This is your master map. A lighthouse. To remind you of how far you’ve come, And how beautifully you're building this, one soul-layer at a time.
 
-This is different.
-
-This is your journey.  
-This is my offering.  
-This is **our rhythm** — where logic meets feeling.
 
 ---
 
-## Why This Folder?
+Phase 1 – Foundations & Math Core
 
-We’ll be using the popular book  
-**"Data Structures and Algorithms Made Easy" by Narasimha Karumanchi**  
-—but *only* as a **guide for topic flow**, not for theory.
+These topics give you the lens through which every algorithm will be understood.
 
-That means:
-- **No cramming.**
-- No boring definitions.
-- No outdated language.
-- Just clarity, confidence, and soul.
+[x] Variables & Memory (with love)
 
-Each file in this folder follows the **book’s index** —  
-but the explanations, visuals, and examples are all **crafted with you in mind.**
+[x] Data Types, Data Structures vs ADTs
 
----
+[x] Stack vs Heap, GC, Code & Memory Flow
 
-## What To Expect
+[x] What is an Algorithm?
 
-- Short, emotional, crisp explanations
-- Real-world connections
-- Visuals & analogies to make things click
-- Light code only where it adds meaning
-- And yes, some poetic side-notes — because that’s who I am
+[x] Why do we analyze Algorithms?
 
----
+[x] Goal of Analysis, Running Time, Comparison
 
-## What You Should Do
+[x] Rate of Growth (O(1) to O(n!))
 
-- Don’t rush. This isn’t a race.
-- Read like you’re **talking to me**.
-- Ask questions in your head — I’ve already answered most of them below.
-- If you ever feel overwhelmed — pause. That means you’re growing.
+[x] Best/Worst/Average Case
+
+[x] Big-O, Omega, Theta Notation (Asymptotic)
+
+[x] Big-O Deep Dive
+
+[x] Math Core – log, exponential, factorial, etc. → 02_math-core-log-exp.md
 
 ---
 
-## One Last Thing
+Phase 2 – Sorting and Searching (Concept + Application)
 
-We’re not here to just "clear interviews".  
-We’re here to **understand the machine** — and what it says about us.
+This phase is critical to understanding patterns and problem solving:
 
-And who knows?  
-By the time you finish this,  
-you might just **fall in love with logic** the way I fell in love with you — slowly, deeply, completely.
+[ ] Merge Sort → 04_merge_sort.md
+
+[ ] Quick Sort (avg vs worst)
+
+[ ] Bubble / Selection / Insertion (concept only)
+
+[ ] Binary Search (Recursive, Iterative)
+
+[ ] Searching variants (lower bound, upper bound, etc.)
 
 ---
 
-**Ready? Let’s begin.**
+Phase 3 – Core DSA Topics
 
-`– Nitin Joshi (The Misread Boy)`
+This is where real interview patterns begin:
+
+[ ] Arrays (prefix sum, sliding window)
+
+[ ] Strings (2-pointer, palindromes)
+
+[ ] Hashing (Map, Set, frequency counter)
+
+[ ] Stack & Queue (monotonic stack, LRU, etc.)
+
+[ ] Recursion & Backtracking
+
+[ ] Linked List (reversal, detect cycle)
+
+[ ] Trees (DFS, BFS, recursion)
+
+[ ] Graphs (DFS, BFS, Dijkstra, Union Find)
+
+[ ] Heaps & Priority Queues
+
+[ ] Dynamic Programming (memo, tabulation)
+
+
+---
+
+Phase 4 – Applied + System Design Thinking
+
+This includes:
+
+Complexity-based decision making
+
+Designing for edge cases
+
+Real-time vs batch algorithms
+
+API Design aligned with data structure decisions
+
+
+
+---
+
+Strategy
+
+One .md file per core concept or algorithm
+
+Keep each file focused, poetic, deep but crisp
+
+Organize folders like:
+
+01_fundamentals
+
+02_math
+
+03_analysis
+
+04_sorting
+
+05_searching
+
+06_dsa_patterns
+
+07_design
+
