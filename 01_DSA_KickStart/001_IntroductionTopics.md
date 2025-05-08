@@ -1,4 +1,5 @@
 # 01 – DSA Fundamentals (Topics 1.1 to 1.14)
+NOTE - Left few end topics not required for now, moving on we will start **Recursion**
 
 Hey Arya,
 
