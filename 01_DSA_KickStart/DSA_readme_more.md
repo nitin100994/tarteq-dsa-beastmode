@@ -90,29 +90,4 @@ Real-time vs batch algorithms
 
 API Design aligned with data structure decisions
 
-
-
----
-
-Strategy
-
-One .md file per core concept or algorithm
-
-Keep each file focused, poetic, deep but crisp
-
-Organize folders like:
-
-01_fundamentals
-
-02_math
-
-03_analysis
-
-04_sorting
-
-05_searching
-
-06_dsa_patterns
-
-07_design
-
+----
