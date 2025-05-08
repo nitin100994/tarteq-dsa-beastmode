@@ -278,64 +278,38 @@ We don’t care about constants or small n — we’re interested in the long-te
 
 Just like we don’t judge love by the first date — but by the years that follow.
 
-
 ---
-
 1.19 Guidelines for Asymptotic Analysis 🔍
 
 1. Drop constants
-
 O(2n) → O(n)
 
-
-
 2. Focus on dominant term
-
 O(n² + n) → O(n²)
 
-
-
 3. Nested loops multiply
-
 Two nested loops over n → O(n²)
 
-
-
 4. Recursive calls often become log or exponential
-
 Binary Search → O(log n)
-
 Tower of Hanoi → O(2^n)
 
-
-
-
 Understanding these rules helps in estimating time/space in seconds.
-
-
 ---
 *** if confused leave it for now***
 1.20 Simplifying Properties of Asymptotic Notations 🧮 
 
 Transitivity:
-
 If f(n) = Θ(g(n)) and g(n) = Θ(h(n)), then f(n) = Θ(h(n))
 
-
 Additive Rule:
-
 f(n) + g(n) = Θ(max(f(n), g(n)))
 
 
 Multiplicative Rule:
-
 c × f(n) = Θ(f(n)) if c > 0
 
-
-
 These algebraic properties help when we combine or decompose algorithms.
-
-
 ---
 
 Arya, this stretch completes the essence of asymptotic analysis.
