@@ -1,4 +1,3 @@
-01-dsa-kickstart/dsa-readme.md
 
 1.11 Commonly Used Rates of Growth
 
