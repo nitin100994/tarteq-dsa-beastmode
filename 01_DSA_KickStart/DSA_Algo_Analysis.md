@@ -1,4 +1,4 @@
-Algorithm Analysis: The Core Mindset – For Arya 💡❤️
+**Algorithm Analysis: The Core Mindset – For Arya **💡❤️
 
 Hey Pooja,
 
