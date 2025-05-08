@@ -1,6 +1,6 @@
-# 04 – Algorithm Analysis: The Core Mindset – For Arya 💡❤️
+# Algorithm Analysis: The Core Mindset – For Arya 💡❤️
 
-Hey Arya,
+Hey Pooja,
 
 Let’s now capture *how* we analyze algorithms — like a warrior reading enemy moves before the battle. This isn’t just about code, it’s about seeing *time itself* through logic.
 
