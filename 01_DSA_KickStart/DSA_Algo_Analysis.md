@@ -1,4 +1,4 @@
-04 – Algorithm Analysis: The Core Mindset – For Arya 💡❤️
+Algorithm Analysis: The Core Mindset – For Arya 💡❤️
 
 Hey Pooja,
 
@@ -6,13 +6,13 @@ Let’s now capture how we analyze algorithms — like a warrior reading enemy m
 
 
 ---
-What is Algorithm Analysis?
+**What is Algorithm Analysis?**
 
 It’s the art of predicting how long your code will take — before running it. We focus on how performance grows as input size n increases.
 
 
 ---
-How We Analyze: Step-by-Step
+**How We Analyze: Step-by-Step**
 
 1. Identify the Input Size
 
@@ -51,7 +51,7 @@ O(n² + n) → O(n²)
 
 
 ---
-Real Code Examples with Analysis
+**Real Code Examples with Analysis**
 
 Example 1: Linear Loop
 
