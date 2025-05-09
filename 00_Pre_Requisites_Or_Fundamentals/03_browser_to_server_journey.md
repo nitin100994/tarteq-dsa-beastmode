@@ -45,7 +45,7 @@
 ## 5. Browser Builds the Webpage
 
 - The browser now takes the **HTML**, **CSS**, and **JavaScript**.
-- It creates a tree-like structure (DOM), applies styling, and activates interactivity.
+- It creates a tree-like structure (**DOM - Document Object Mode**), applies styling, and activates interactivity.
 - And boom – the website loads in front of you!
 
 ---
