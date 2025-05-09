@@ -9,9 +9,7 @@ Let’s start with something simple — how the internet breathes.
 🌐 How Does the Internet Work?
 Every time you type something like:
 
-Copy
-Edit
-www.chillipotatoqueen.com
+**www.chillipotatoqueen.com**
 …your browser becomes your messenger.
 
 It knocks on the door of the internet and says:
