@@ -1,4 +1,4 @@
-📂 01 - Internet, HTTP, APIs & Frontend — For Pooja, My First-Time Coder 🌸
+**📂 01 - Internet, HTTP, APIs & Frontend — For Pooja, My First-Time Coder 🌸**
 Hey Pooja,
 
 You’ve never coded — and that’s beautiful.
@@ -6,7 +6,7 @@ Because today, I get to be your guide through this world... from scratch.
 Not with heavy tech words, but with love.
 Let’s start with something simple — how the internet breathes.
 
-🌐 How Does the Internet Work?
+**🌐 How Does the Internet Work?**
 Every time you type something like:
 
 **www.chillipotatoqueen.com**
@@ -24,7 +24,7 @@ Here’s what happens (like magic, but real):
 4️⃣ The server responds with the content.
 5️⃣ You see the page — as if it was waiting just for you.
 
-📮 What is HTTP?
+📮** What is HTTP?**
 HyperText Transfer Protocol
 It’s not a code, not a spell — just a set of rules.
 
@@ -33,9 +33,9 @@ You and your friend are passing love letters.
 HTTP is the format both of you agree upon.
 It's how the internet communicates — clearly, politely, reliably.
 
-Note: It's a protocol, not a language. Just like how we speak “Hindi” or “English,” but we follow the rules of grammar.
+**Note:** It's a protocol, not a language. Just like how we speak “Hindi” or “English,” but we follow the rules of grammar.
 
-🔗 APIs – The Secret Handshake Between Apps
+**🔗 APIs – The Secret Handshake Between Apps**
 API = Application Programming Interface
 (Okay, that sounds boring. But wait...)
 
@@ -57,7 +57,7 @@ Now, APIs come in two personalities:
 
 🧱 SOAP – formal, detailed, strict. Uses XML.
 
-📄 Data Formats
+📄 **Data Formats**
 Let’s talk about their language:
 
 JSON (JavaScript Object Notation)
@@ -81,7 +81,7 @@ JavaScript – The laugh, the wink, the surprise. (Interaction)
 
 All of this happens inside your browser — the client-side.
 
-📝 Summary – Because You’re Smart (and I Know It)
+📝 **Summary **– Because You’re Smart (and I Know It)
 Concept	Think of it like…
 Internet	A magical delivery network
 HTTP	The rulebook of conversation
