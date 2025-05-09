@@ -151,7 +151,7 @@ The server already smiled and said,
 
 ---
 
-What Happens When You Log In
+**What Happens When You Log In**
 Let me walk you through what I imagined when you pressed “Login”:
 1. You entered your email and password.
 2. The browser whispered to the backend: “She’s here.”
@@ -163,7 +163,7 @@ Feels like magic, right? But it’s just care and code.
 
 ---
 
-Before You Learn DSA: A Whisper from Me to You
+**Before You Learn DSA: A Whisper from Me to You**
 
 Whatever you’ve read until now — it’s like soft rain before monsoon. ☁️ You don’t need to memorize anything. You don’t need to rush.
 
