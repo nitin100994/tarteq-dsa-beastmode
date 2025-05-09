@@ -152,8 +152,8 @@ The server already smiled and said,
 ---
 
 **What Happens When You Log In**
-Let me walk you through what I imagined when you pressed “Login”:
-1. You entered your email and password.
+Let me walk you through**what I imagined when you pressed “Login”**:
+1. You entered your **email** and **password**.
 2. The browser whispered to the backend: “She’s here.”
 3. Backend looked into the database and smiled: “Yes, I know her.”
 4. It created a session, wrapped a cookie, and sent it back.
