@@ -21,9 +21,13 @@ Imagine every line of code as a heartbeat. Time complexity tells us how many bea
 We use Big-O notation to express it:
 
 **O(1) → Constant time:** Like reaching for the remote next to you.
+
 **O(n) → Linear time:** One-by-one search in a diary.
+
 **O(log n) → Logarithmic:** Like guessing a number between 1–100 in fewest tries.
+
 **O(n²) → Nested loops:** Like checking every pair of shoes in your closet.
+
 **More time = more effort = more waiting.** And no one likes to wait in love or code.
 
 ---
