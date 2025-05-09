@@ -85,7 +85,7 @@ Sweet and safe, like a hug from a backend.
 
 Now line by line — with heart:
 --
-NOTE - ExpressJs is a framwork on top of NodeJs[**to make life easy**], as nodejs is **NOT** a language but it is a **run time environment** _[**same as JVM in case of Java**]_, so when we say we use **nodejs** as a backend tech, means we are writing **javascript** code in the backend where our run time environment is basically supporing **Nodejs** env 
+NOTE - **ExpressJs** is a framwork on top of NodeJs[**to make life easy**], as nodejs is **NOT** a language but it is a **run time environment** _[**same as JVM in case of Java**]_, so when we say we use **nodejs** as a backend tech, means we are writing **javascript** code in the backend where our run time environment is basically supporing **Nodejs** env 
 
 **[I home I am making sense]**
 
