@@ -2,7 +2,7 @@
 # What is Cloud?
 
 ## 1. Back in the day (before the cloud)
-Once upon a time, companies had to **physically own servers**. Giant machines stacked in rooms—called data centers—that needed electricity, cooling, and a team of people to manage them. Buying them was expensive, setting them up was slow, and scaling them? A nightmare.
+Once upon a time, companies had to **physically own servers**. Giant machines stacked in rooms—called **data centers**—that needed _electricity_, _cooling_, and a team of people to manage them. Buying them was _expensive_, setting them up was slow, and scaling them? A nightmare.
 
 It was like... renting a palace just to live in one room.
 
