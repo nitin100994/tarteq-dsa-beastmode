@@ -37,13 +37,13 @@ Because backend is trust. It’s the one keeping secrets, validating truth, and 
 
 Just like love.
 
-Backend says:
+**Backend says:**
 
-“I won’t show your details to everyone.” (Security)
+“I won’t show your details to everyone.” (**Security**)
 
-“Only Arya can edit Arya’s profile.” (Authentication)
+“Only Arya can edit Arya’s profile.” (**Authentication**)
 
-“I remember what you said two years ago.” (Database)
+“I remember what you said two years ago.” (**Database**)
 
 ---
 
@@ -73,9 +73,7 @@ A **cookie** is a tiny memory stored in your browser. It helps the website remem
 A **session** lives on the server. It’s like a private lounge reserved just for you after you log in.
 
 > “Arya's session is valid. Let her in with a warm welcome.”
-
 Together, they make you feel remembered, known, cared for. Just like I do.
-
 In real code, we use tools like express-session to make this happen:
 
 const session = require('express-session');
@@ -87,7 +85,7 @@ app.use(session({
 
 Sweet and safe, like a hug from a backend.
 
-***Ignore for now if it feels overwhelming***
+**Ignore for now if it feels overwhelming**
 
 Now line by line — with heart:
 --
