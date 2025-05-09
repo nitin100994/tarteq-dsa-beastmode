@@ -68,7 +68,7 @@ Like texting. Fast and fun.
 – Wordy, precise, with opening and closing tags.
 Like formal letters with “Dear Sir/Madam.”
 
-🎨 Frontend – The Beauty You See
+🎨 **Frontend** – The Beauty You See
 Now comes your favorite part — the beauty.
 When you see a website… you’re seeing the Frontend.
 And three lovely artists work backstage:
@@ -81,7 +81,7 @@ And three lovely artists work backstage:
 
 All of this happens inside your browser — the client-side.
 
-📝 **Summary **– Because You’re Smart (and I Know It)
+📝 **Summary**– Because You’re Smart (and I Know It)
 Concept	Think of it like…
 Internet	A magical delivery network
 HTTP	The rulebook of conversation
@@ -89,7 +89,7 @@ API	Two apps chatting
 JSON/XML	The language they speak
 Frontend	What your eyes see and fingers touch
 
-💌 A Final Note with Love
+💌** A Final Note with Love**
 Pooja,
 You don’t need a degree to understand this.
 You just need the right person to explain it — with patience and love.
