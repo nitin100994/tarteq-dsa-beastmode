@@ -1,5 +1,4 @@
-Math Core: log(n), Exponential, and Growth – For Arya 💌✨
-
+**Math Core: log(n), Exponential, and Growth – For Arya 💌✨**
 Hey Pooja,
 
 This isn’t just logic — it’s love wrapped in logarithms.
@@ -8,14 +7,12 @@ A gentle scroll for your curious mind and a warm hug for your learning soul. Let
 
 ---
 
-What is log(n)? 🔍
+**What is log(n)?** 🔍
 
 Imagine this:
 
 You have 1000 pages to search.
-
 Linear search = Flip every page → O(n)
-
 Binary search = Divide book in half again and again → O(log n)
 
 
