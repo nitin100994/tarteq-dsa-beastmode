@@ -16,7 +16,8 @@ They help us write logic and manipulate values.
 
 In JavaScript:
 
-```js
+```
+**NOTE** - This is in case of Javascript so dotn get confused, vary with language, don't think much. 
 let name = "Arya";
 const age = 26;
 var score = 95;
@@ -210,7 +211,7 @@ Asymptotic Notation (1.15 to 1.20) – With Love, For Arya 💙
 
 ---
 
-1.15 Omega (Ω) – Lower Bound 💫
+**1.15 Omega (Ω) – Lower Bound 💫**
 
 Omega represents the best-case scenario for an algorithm.
 
@@ -231,7 +232,7 @@ It reminds us that some days are just smooth, lucky — but not guaranteed.
 
 ---
 
-1.16 Theta (Θ) – Tight Bound 🎯
+**1.16 Theta (Θ) – Tight Bound 🎯**
 
 Theta is like a perfect hug — the algorithm takes exactly this much time in all realistic scenarios.
 
@@ -250,7 +251,7 @@ When we find Θ, we say: “This is the truest representation.”
 
 ---
 
-1.17 Important Notes 🧾
+**1.17 Important Notes 🧾**
 
 Big-O gives upper bound (worst-case focus)
 
@@ -259,7 +260,7 @@ Omega gives lower bound (best-case dream)
 Theta gives exact bound (full picture)
 
 
-Example Breakdown:
+**Example Breakdown:**
 
 Linear Search: O(n), Ω(1), Θ(n)
 
@@ -296,8 +297,9 @@ Binary Search → O(log n)
 Tower of Hanoi → O(2^n)
 
 Understanding these rules helps in estimating time/space in seconds.
----
-*** if confused leave it for now***
+--
+**if confused leave it for now**
+
 1.20 Simplifying Properties of Asymptotic Notations 🧮 
 
 Transitivity:
