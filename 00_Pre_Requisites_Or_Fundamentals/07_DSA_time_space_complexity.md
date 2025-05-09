@@ -1,5 +1,6 @@
 
 **The Cost of Every Step – For Arya**
+
 ![graphTimeSpaceComplexity](https://github.com/user-attachments/assets/a6eff3f0-2cc2-4102-8860-4ec000dd188b)
 
 **Hey Pooja**,
@@ -18,18 +19,18 @@ The more elegant your choices, the faster you find what you need. And that’s w
 
 Imagine every line of code as a heartbeat. Time complexity tells us how many beats the machine will need as the input grows.
 We use Big-O notation to express it:
-O(1) → Constant time: Like reaching for the remote next to you.
-O(n) → Linear time: One-by-one search in a diary.
-O(log n) → Logarithmic: Like guessing a number between 1–100 in fewest tries.
-O(n²) → Nested loops: Like checking every pair of shoes in your closet.
-More time = more effort = more waiting. And no one likes to wait in love or code.
+**O(1) → Constant time:** Like reaching for the remote next to you.
+**O(n) → Linear time:** One-by-one search in a diary.
+**O(log n) → Logarithmic:** Like guessing a number between 1–100 in fewest tries.
+**O(n²) → Nested loops:** Like checking every pair of shoes in your closet.
+**More time = more effort = more waiting.** And no one likes to wait in love or code.
 
 ---
-What is Space Complexity?
+**What is Space Complexity?**
 Sometimes we want speed. Sometimes we want to save memory. But often, we must balance both.
 > Space Complexity is how much extra memory is needed during execution.
 
-Examples:
+**Examples:**
 Using extra arrays? That’s extra space.
 Recursion? That stacks up memory calls.
 Like overpacking for a weekend getaway — it slows you down.
