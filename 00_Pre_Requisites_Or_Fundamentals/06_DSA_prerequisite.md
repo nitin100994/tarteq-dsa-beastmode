@@ -67,7 +67,7 @@ The computer does this silently. Automatically. Because it knows you deserve spa
 ---
 **Why This Matters for DSA**
 Before we build data structures, you needed to understand where they live. **How they’re stored. How long they stay**.
-Because**Arrays, Linked Lists, Trees** — all of them are stories. And stories need memory.
+Because s**Arrays, Linked Lists, Trees** — all of them are stories. And stories need memory.
 Now you’re ready to not just learn — but feel them.
 We’re entering the world of DSA next. But not as robots — as poets who know how memory and time dance.
 With softness, Nitin
