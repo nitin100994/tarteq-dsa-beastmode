@@ -64,7 +64,4 @@ This list is curated to help beginners (like Pooja!) get comfortable with arrays
 
 ---
 
-Let me know which one to explain next — step-by-step, dry run, poetic vibe, or code-ready!
-
-Love & Logic,
-**Nitin & ChatGPT**
+**Nitin**
