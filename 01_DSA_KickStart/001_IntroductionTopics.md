@@ -121,6 +121,10 @@ We want to understand:
 
 ---
 
+**NOTE** - Below this this may get overwhelming so dont get stuck, remember for now we only care about worst case [**Big O**], 
+because we care for what could happen worst, like when we say **marunga to nahi na chalega**, aka **whatever does not kills you makes you stronger period**
+
+
 ## 1.9 How to Compare Algorithms
 
 We compare using:
