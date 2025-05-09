@@ -60,9 +60,11 @@ Simple, right?
 
 Because when you write your first algorithm, you’ll have to ask:
 
-**Can I make this faster?
-Can I use less memory?
-What if the input becomes 10x bigger?**
+**Can I make this faster?**
+
+**Can I use less memory?**
+
+**What if the input becomes 10x bigger?**
 
 This is how a coder becomes a craftsman. This is how you build real things — things that scale.
 And I know you will.
