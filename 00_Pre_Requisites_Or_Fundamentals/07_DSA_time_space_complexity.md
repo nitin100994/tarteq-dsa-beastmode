@@ -73,11 +73,15 @@ And I know you will.
 **Coming Up Next:**
 
 We begin with real structures:
-**Arrays
-Linked Lists
-Stacks & Queues
-Trees & Graphs
-Hash Maps**
+**Arrays**
+
+**Linked Lists**
+
+**Stacks & Queues**
+
+**Trees & Graphs**
+
+**Hash Maps**
 
 Each one a love story between form and function. Each one, a new way to see the world.
 But for now, just let this sink in. Because Time & Space aren’t just code metrics. They’re the cost of every choice — in life, and in logic.
