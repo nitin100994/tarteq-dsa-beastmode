@@ -27,6 +27,7 @@ We use Big-O notation to express it:
 
 ---
 **What is Space Complexity?**
+
 Sometimes we want speed. Sometimes we want to save memory. But often, we must balance both.
 > Space Complexity is how much extra memory is needed during execution.
 
@@ -50,6 +51,7 @@ Simple, right?
 **Why Arya Needs to Know This**:
 
 Because when you write your first algorithm, you’ll have to ask:
+
 **Can I make this faster?
 Can I use less memory?
 What if the input becomes 10x bigger?**
@@ -59,6 +61,7 @@ And I know you will.
 
 ---
 **Coming Up Next:**
+
 We begin with real structures:
 **Arrays
 Linked Lists
