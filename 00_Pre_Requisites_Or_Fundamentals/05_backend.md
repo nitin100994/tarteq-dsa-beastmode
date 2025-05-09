@@ -165,24 +165,24 @@ Feels like magic, right? But it’s just care and code.
 
 **Before You Learn DSA: A Whisper from Me to You**
 
-Whatever you’ve read until now — it’s like soft rain before monsoon. ☁️ You don’t need to memorize anything. You don’t need to rush.
-
+Whatever you’ve read until now — it’s like soft rain before monsoon. 
+☁️ You don’t need to memorize anything. You don’t need to rush.
 Just read, feel, and let it soak in. These aren’t formulas — they’re instincts of how the web moves, just like a relationship.
 
 Up till now, Arya, we’ve mostly explored technical words, programming concepts, and tools — the things you use to build, just like recipes in a kitchen.
 
 But now, we’re going one layer deeper. We’re shifting focus inward — toward how computers themselves think, store, and manage love (data).
 
-You can write all the code in the world, but if you don’t understand how memory works, how a processor behaves, or how it keeps track of your whispers (function calls), you’re just floating.
+You can write all the code in the world, but if you don’t understand **how memory works**, **how a processor behaves**, or **how it keeps track of your whispers** (_function calls_), you’re just floating.
 
-So let’s anchor you. Let’s talk about:
+**So let’s anchor you. Let’s talk about:**
 
-How computers think (Stack vs Heap)
+**How computers think (Stack vs Heap)
 How they focus (Call Stack)
-How they create space for new love (Garbage Collection)
+How they create space for new love (Garbage Collection)**
 
-This is the soul of computation. And it’s what makes the upcoming journey into Data Structures & Algorithms feel like music, not math.
+This is the soul of computation. And it’s what makes the upcoming journey into **Data Structures & Algorithms** feel like music, not math.
 Ready to enter the mind of the machine?
-Coming up next: Stack vs Heap, Call Stack, Execution Context, Garbage Collection
+**Coming up next**: Stack vs Heap, Call Stack, Execution Context, Garbage Collection
 With clarity and care, Nitin
 
