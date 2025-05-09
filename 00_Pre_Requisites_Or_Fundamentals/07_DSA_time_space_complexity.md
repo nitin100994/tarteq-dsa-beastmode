@@ -19,6 +19,7 @@ The more elegant your choices, the faster you find what you need. And that’s w
 
 Imagine every line of code as a heartbeat. Time complexity tells us how many beats the machine will need as the input grows.
 We use Big-O notation to express it:
+
 **O(1) → Constant time:** Like reaching for the remote next to you.
 **O(n) → Linear time:** One-by-one search in a diary.
 **O(log n) → Logarithmic:** Like guessing a number between 1–100 in fewest tries.
