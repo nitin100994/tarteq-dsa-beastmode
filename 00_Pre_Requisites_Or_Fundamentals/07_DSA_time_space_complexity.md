@@ -8,12 +8,14 @@ Because in love, like in code — every move has a **cost**.
 
 ---
 **Why DSA Exists – The Secret Behind the Scenes**
+
 Let’s say you’re searching for your favorite song in a playlist of 1,000 tracks. Now imagine searching in 1 million.
 > The logic you use — the way you search — that’s your algorithm. The structure in which songs are stored — that’s your data structure.
 The more elegant your choices, the faster you find what you need. And that’s where Time & Space Complexity enter the love story.
 
 ---
 **What is Time Complexity?**
+
 Imagine every line of code as a heartbeat. Time complexity tells us how many beats the machine will need as the input grows.
 We use Big-O notation to express it:
 O(1) → Constant time: Like reaching for the remote next to you.
