@@ -60,11 +60,11 @@ Now, **APIs come in two personalities:**
 📄 **Data Formats**
 Let’s talk about their language:
 
-JSON (JavaScript Object Notation)
+**JSON** (JavaScript Object Notation)
 – Short, sweet, human-readable. REST loves JSON.
 Like texting. Fast and fun.
 
-XML (Extensible Markup Language)
+**XML** (Extensible Markup Language)
 – Wordy, precise, with opening and closing tags.
 Like formal letters with “Dear Sir/Madam.”
 
