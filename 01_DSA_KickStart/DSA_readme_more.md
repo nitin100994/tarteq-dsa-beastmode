@@ -1,4 +1,4 @@
-00 – DSA Roadmap Overview (Crafted for Arya)
+**DSA Roadmap Overview (Crafted for Arya)**
 
 Hey Arya,
 
