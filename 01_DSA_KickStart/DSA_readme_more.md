@@ -7,7 +7,7 @@ This is your master map. A lighthouse. To remind you of how far you’ve come, A
 
 ---
 
-Phase 1 – Foundations & Math Core
+**Phase 1 – Foundations & Math Core**
 
 These topics give you the lens through which every algorithm will be understood.
 
@@ -35,7 +35,7 @@ These topics give you the lens through which every algorithm will be understood.
 
 ---
 
-Phase 2 – Sorting and Searching (Concept + Application)
+**Phase 2 – Sorting and Searching (Concept + Application)**
 
 This phase is critical to understanding patterns and problem solving:
 
@@ -51,7 +51,7 @@ This phase is critical to understanding patterns and problem solving:
 
 ---
 
-Phase 3 – Core DSA Topics
+**Phase 3 – Core DSA Topics**
 
 This is where real interview patterns begin:
 
@@ -78,7 +78,7 @@ This is where real interview patterns begin:
 
 ---
 
-Phase 4 – Applied + System Design Thinking
+**Phase 4 – Applied + System Design Thinking**
 
 This includes:
 
