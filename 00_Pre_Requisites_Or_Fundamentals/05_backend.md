@@ -82,6 +82,8 @@ app.use(session({
   resave: false, 
   saveUninitialized: true 
 }));
+<img width="392" alt="image" src="https://github.com/user-attachments/assets/dc6c732c-8967-45d8-90c8-9757209e45ba" />
+
 
 Sweet and safe, like a hug from a backend.
 
