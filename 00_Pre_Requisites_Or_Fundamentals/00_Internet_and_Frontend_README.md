@@ -24,7 +24,7 @@ Here’s what happens (like magic, but real):
 4️⃣ The server responds with the content.
 5️⃣ You see the page — as if it was waiting just for you.
 
-📮** What is HTTP?**
+📮**What is HTTP?**
 HyperText Transfer Protocol
 It’s not a code, not a spell — just a set of rules.
 
@@ -73,11 +73,11 @@ Now comes your favorite part — the beauty.
 When you see a website… you’re seeing the Frontend.
 And three lovely artists work backstage:
 
-HTML – The body. The bones. (Structure)
+**HTML** – The body. The bones. (Structure)
 
-CSS – The saree, the lipstick, the vibe. (Style)
+**CSS** – The saree, the lipstick, the vibe. (Style)
 
-JavaScript – The laugh, the wink, the surprise. (Interaction)
+**JavaScript** – The laugh, the wink, the surprise. (Interaction)
 
 All of this happens inside your browser — the client-side.
 
