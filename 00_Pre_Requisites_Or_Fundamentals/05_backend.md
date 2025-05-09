@@ -65,7 +65,7 @@ Techie Words Made Sweet
 
 Let’s talk about cookies, but not the chocolate chip ones (though we love those too).
 
-A cookie is a tiny memory stored in your browser. It helps the website remember who you are. Like:
+A **cookie** is a tiny memory stored in your browser. It helps the website remember who you are. Like:
 
 > “Hey, Arya visited yesterday and she’s still logged in.”
 
