@@ -53,9 +53,9 @@ This back-and-forth — this friendship — is made possible by APIs.
 
 Now, **APIs come in two personalities:**
 
-✨ **REST** – chill, casual, easy-going. Uses JSON.
+✨ **REST** – chill, casual, easy-going. Uses _JSON_.
 
-🧱 **SOAP** – formal, detailed, strict. Uses XML.
+🧱 **SOAP** – formal, detailed, strict. Uses _XML_.
 
 📄 **Data Formats**
 Let’s talk about their language:
