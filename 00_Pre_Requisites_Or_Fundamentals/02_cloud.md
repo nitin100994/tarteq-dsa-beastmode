@@ -38,5 +38,5 @@ Just like love—try, learn, grow. No need to build an empire first. Start with 
 
 ## 7. And hey, Pooja…
 You're probably wondering—why am I telling you all this?  
-Because one day, you’ll hear someone say “We’re migrating to cloud,” and you’ll smile quietly, remembering someone once told you,  
+Because one day, you’ll hear someone say “**We’re migrating to cloud**,” and you’ll smile quietly, remembering someone once told you,  
 _“It’s like the way you moved into my life—light, warm, and permanent.”_
