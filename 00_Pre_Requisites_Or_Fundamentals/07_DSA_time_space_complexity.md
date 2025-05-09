@@ -48,8 +48,11 @@ Imagine searching for chocolate:
 You go shelf by shelf – that’s **O(n)**.
 You ask an employee with a list – that’s **O(1)**.
 You divide the store into halves and search smartly – that’s **O(log n)**.
+
 **How fast you shop = Time** 
+
 **How many bags you carry = Space**
+
 Simple, right?
 
 ---
