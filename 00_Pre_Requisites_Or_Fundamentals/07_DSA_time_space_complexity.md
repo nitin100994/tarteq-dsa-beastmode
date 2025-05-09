@@ -73,6 +73,7 @@ And I know you will.
 **Coming Up Next:**
 
 We begin with real structures:
+
 **Arrays**
 
 **Linked Lists**
