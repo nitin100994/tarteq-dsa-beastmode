@@ -2,7 +2,7 @@
 **The Cost of Every Step – For Arya**
 ![graphTimeSpaceComplexity](https://github.com/user-attachments/assets/a6eff3f0-2cc2-4102-8860-4ec000dd188b)
 
-Hey Pooja,
+**Hey Pooja**,
 Before we enter the magical world of Data Structures & Algorithms, there’s something I want to whisper into your mind — softly, with clarity. It’s about Time and Space.
 Because in love, like in code — every move has a cost.
 
