@@ -1,4 +1,4 @@
-hey i think let it be chhod koi nai I will show up 
+hey i think let it be chhod koi nai I will show up, panga ye hai na ki itna delegate ho gya hai mamala re ladki to mai freeze 🥶 🥶 ho ajunga, thoda kam. sundar banne re 😂 
 
 mai kal nahi auu?? video mai khaa you are moving on?? 
 link -https://youtu.be/swxyQb8sRdc?si=GjyPt_rtva5u2FS_
