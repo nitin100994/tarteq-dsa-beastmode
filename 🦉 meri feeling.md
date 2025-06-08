@@ -87,3 +87,19 @@ maine to loan internally liya family mai but he from bank and bank, education lo
 isse time p light jati thi Delhi mai and inverto formme was a thing, bitnyarr mai kabhi ese feel nahi karta tha ki mere p hai nahi so cry, but i guess jab koi aur bhi suffer kar raha ho and see other they feel it intensely... right? 
 
 fir lovenish nai casually pucha interview hai padh kyucnahi rhaa maine kaha light chali gai yarr... kehta invertor nahi hai maine kha ha aj bat Kari hai karunga ab se, firvo muje samjhane laga, vo bhot acha samjhata hai , kehta bhai... tere hath hi nahi honge to mehtn kamese karega maine kaha casually 😂😂 ha yarr.. vo 4-6 barr bolega jab tak banda samjh na jayega 😂😂😂andnuski batt kann kolhol k sunega , fir kehta bhai ... same batt firbaat hoti rahi last mai kehta aur kya kar rha maine kuch bat chedi thi yadd nahi cooler ki, ya fir jab usse pta laga ki mai kitna openly usko btaya ki mere pass nahi hai resources like invertor to ussne kaha ha AC ki baat chali thi, kehta sale garmi mai socraha hu mai AC nahi mai mere.pass 😂😂 gusse mai frustrated, like first' time confront into someone, like ki mai paise vala nahi hu,.he is punjabi, to, comparison bhot karte hai isiliye vo pehle sai esa tha but he'll smart and emotional high high iq g faad, hum Engli improve kartenthe raat ko college sai aake jab ye ghar pahuch jata tamha, 11:30 around Sonipat side rehta hai, and ye gadi mai padhta the 1 hr , papa chalate the, dir subha papa chale att ethe 7 am and ye 1-2 he car mai padhta tha bas, and raat ko 1 hr , mai pagal ho gya tha usko dekh ke dedication, ab pta chalta hai kyu mai vesa nahi tha tha but mai anxious rha uska breakup ho gya tha. so i moved on mai to life Mai stuck tha., 
+
+koi nai, college mai sabse pehli company usne nikali thi sab 🫨 ye bigde bache padhte hai, 😂😂😂 ... 
+
+ammer hai rahul jiski audi dekhi hogi video mai, dekho audi hai baap pnto sabse chutiya kon hoga haan samjhi... that means jisko sab milta hai vo grow nahi ho pate mentally kyuki we learn from experience and hardship, real Street fight, .... we you like me, kyuki jisne sab dekh liya vo detach hai.....
+
+kya kya bate likh di maine.... thought loss hogya kyu likhrha tha, ha yadd aya to maine yennote kara ki pooja jo bhi bhot ache log notnache means when they enter be around you, you feel happy fornow reason, that means they are radiating, Right? to mai ye note krta hu, 
+
+point ye hai ki jitna jisne struggle kara hai vo itna succe payega period 
+
+
+maine death dekhi hai, I was this close to death, now kyuki mother nature's wants me to live maybe for a pirpo and I met you look at me now, you made.me this ....
+
+at last we are all undergoing metamorphosis 🦋... 
+
+Yours Bowly... 🕊️ 
+🦉🌌🚀💯🔐🪟🏔️🌄👀🎶 rakh lo tum chupake....
