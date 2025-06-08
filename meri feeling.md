@@ -31,3 +31,5 @@ ya aaau roz office na ?? maiajunga please ebato ek barr
 mai aunga Monday ko Roz aunga abse btao sahi soch raha hu na, mai akke bat karu tumse khud??? please btao na ya wait karu tum comfortable hogi to bat karna jo tum kaho bas ek barr same video chanal ko bta do 🥺 
 
 aj to nahi bula raho ho na kal sai hi matlab hai tumara ?? 
+
+mai subha canteen ajaunga first floor jaldi vahi rahunga tum hogi to mai bat karu ga chalega ???
