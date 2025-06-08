@@ -1,3 +1,8 @@
+
+a realisation 
+- felt suddenly an anger ek video dekh kar meri galti nahi hai kyuki I can hear it again, but I know it has to be a mistake communication and i realised she loves me a lot, I am sorry again please understand mai bhot overwhelming feeling kar rha thank you 🦋 
+
+
 hey i think let it be chhod koi nai I will show up, panga ye hai na ki itna delegate ho gya hai mamala re ladki to mai freeze 🥶 🥶 ho ajunga, thoda kam. sundar le re 😂 😏 🦋 
 
 mai kal nahi auu?? video mai khaa you are moving on?? 
