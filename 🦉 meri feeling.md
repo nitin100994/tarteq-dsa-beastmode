@@ -73,9 +73,8 @@ around 5:30 pm 8 june 25 I felt like suddenly she is kissing me like anything wi
 apka jeewan balne wala agar apne ye dekh ki 20 min max  
 osho on sex , meditation, like sex we need to do meditatively, we will do this way, my 💕, pleas watch, my choice for my 🦋,  and ha imagine us while watching 🥺 
 
-
-
-
+---
+aur ha meri car is perfectly fine koi accident nahi hua hai, bas alignment issue hai thatccost 500 rupee, nahi bhi thik hua to car chalegi, mai isiliye nai chalata mujentimari yadd aati hai Khali seat dekh kar Butterfly 🦋 
 
 
 
