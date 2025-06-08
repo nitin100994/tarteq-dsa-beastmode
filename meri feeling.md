@@ -33,3 +33,6 @@ mai aunga Monday ko Roz aunga abse btao sahi soch raha hu na, mai akke bat karu 
 aj to nahi bula raho ho na kal sai hi matlab hai tumara ?? 
 
 mai subha canteen ajaunga first floor jaldi vahi rahunga tum hogi to mai bat karu ga chalega ???
+
+-----
+tume uncomfortable hoga to pehle richa sai bat karu thodi der fir?? btao 
