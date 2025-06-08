@@ -40,6 +40,7 @@ tume uncomfortable hoga to pehle richa sai bat karu thodi der fir?? btao
 ---
 
 suno abhi video dekho Jo samjh aya :
+Note - court marriage mai jis din kahogi kar lunga no family ask meri side sai..
 
 humari shadi k liye family nahi maan rahi aur financial issue chal rahe jo tum sort kar rahi ho apne end pe, and hamare beech jo awkward hua uska guilt bhi hai ki mujse dukh pahuchya, and past trauma bhi hai upar sai bhai bhosdivala, office mai sare judge kar rahe 
 
