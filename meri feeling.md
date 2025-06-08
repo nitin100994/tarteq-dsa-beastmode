@@ -10,3 +10,15 @@ kyuki personality unki dominating hai and mai dabta nahi ab to she can't digest 
 muje sari tactics dikhri hai ye sab fake hai jab real hoti hai mai acha feel karta hu even unke liye kuch karta hu but this lady is nut case chhod tum bas samjho ko ye ek bat hai jo mai bta rhaa hu isme mai tension na le raha okay na 🦋.
 
 your 🦉❣️
+
+
+--++-
+8 june , 25 time - 4 pm
+
+oye link - https://youtu.be/-jAU9ynX3h0?si=r8nF49lXsctnPHct
+
+abhidekhi court marriage karle? ye keh rahi ho ?? mai agree hu dekho mai bas jo ifo mil rahi vo bta rha aplease please 🥺 tension mat lo please , 
+
+baki kya bol rahi ho kispe kon kya kar raha hai jaddo tona esa lag raha muje ke rah I ho ki mere p kar rhaa koi family neigh mai friend?? office kuch to btao 
+
+ya galat samjha mai tension nahi leta jann mai tumse pyar karta 
