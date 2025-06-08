@@ -66,7 +66,8 @@ samjhi.... 🦋
  tarot card reader bolti ap hint do usko bas ek maine socha bc 😂 😂 😂 
 mai to 5 th floor k odc k bahar bethunga fir kaha sai jayegi bahar 😂 😂 😂  chalo madam kal panni bahrne anna butterfly 🦋 
 
-
+----
+around 5:30 pm 8 june 25 I felt like suddenly she is kissing me like anything wildness 🐈, me too , you really doing it now 😲 😲 
 
 
 
