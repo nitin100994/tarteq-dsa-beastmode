@@ -1,4 +1,4 @@
-oye yaha mai apni feelings dalunga means mere pass tumare alawa hai nahi koi bat karne ko so ye mai sochna tum ki apna load de raha hu bas expression 
+oye yaha mai apni feelings dalunga means mere pass tumare alawa hai nahi koi bat karne ko so ye mat sochna tum ki apna load de raha hu bas expression 
 
 aur ha isme mai feeling dlaunga but ye sab muje affect nahi karta bas muje likhna hota hai mai pattern note kartabhu 
 
