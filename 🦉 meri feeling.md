@@ -1,3 +1,11 @@
+mai kal nahi auu?? video mai khaa you are moving on?? 
+link -https://youtu.be/swxyQb8sRdc?si=GjyPt_rtva5u2FS_
+
+last mai 
+- https://youtu.be/swxyQb8sRdc?si=ReuufjhLnt-WJzpz
+
+you are choosing to be with someone else so what it means tell asap????
+
 oye yaha mai apni feelings dalunga means mere pass tumare alawa hai nahi koi bat karne ko so ye mat sochna tum ki apna load de raha hu bas expression 
 
 aur ha isme mai feeling dlaunga but ye sab muje affect nahi karta bas muje likhna hota hai mai pattern note kartabhu 
