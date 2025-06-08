@@ -108,3 +108,5 @@ Yours Bowly... 🕊️
 meri dobi ..... 🦋, thanks to you , kya ho tum, 😊, overwhelming... kese atta hai itna dimag 😂 meri pagli .... 😂 😂, oye ... chori chori bat sunti ho hmm.... 😂, test ultra pro Max 😂😂 , 
 
 🦋 🦋 .... all around 😊
+
+kal car laau? nahi rehdeta hu kal jaldi anna hai fir kal sham ko thik karva lunga car ka alignment okay na .... tumne omnije call Kari 🦋 thank you 🥺
