@@ -62,10 +62,9 @@ suno richa ko thanks kehna maybe she is helping you financially, we will pay def
 suno maibasnye sari possibility bta.raha so your choice pick any we willo so slow madam , jese apko acha lege jese abhi bat kar rahi kitna bada progress hai kyu hai nahi kya? mai koi tension nahi le raha ki tum muje chod dogi nahi muje koi doubt nahi hai 
 samjhi.... 🦋 
 
-
-
-
-
+---
+ tarot card reader bolti ap hint do usko bas ek maine socha bc 😂 😂 😂 
+mai to 5 th floor k odc k bahar bethunga fir kaha sai jayegi bahar 😂 😂 😂  chalo madam kal panni bahrne anna butterfly 🦋 
 
 
 
