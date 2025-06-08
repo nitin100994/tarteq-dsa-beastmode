@@ -54,3 +54,6 @@ chalo mai aya tum khush raho kal milunga maybe 🤔 😂 , see you my 🦋 🦉 
 ---
 
 suno sath mai padhenge bademhge tum meri help karna testing mai mai development karunga, firnmai testing sikh lunga, tum development kyu mast na ?? 
+
+---
+suno richa ko thanks kehna maybe she is helping you financially, we will pay definitely but we can pay her the support and presense, kal sai mai aunga ab to muje lagta nahi na fir ki tumne tarot card reading karvao , means kalsai mat karna paise spend, tab to mai office hounga 9 pm Tak ya jab tak tum hoti ho, firnraat ko bat karenge
