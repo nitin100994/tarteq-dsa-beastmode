@@ -22,3 +22,8 @@ abhidekhi court marriage karle? ye keh rahi ho ?? mai agree hu dekho mai bas jo 
 baki kya bol rahi ho kispe kon kya kar raha hai jaddo tona esa lag raha muje ke rah I ho ki mere p kar rhaa koi family neigh mai friend?? office kuch to btao 
 
 ya galat samjha mai tension nahi leta jann mai tumse pyar karta 
+
+------ 
+
+request send karu insta p kya ?? 
+ya aaau roz office na ?? maiajunga please ebato ek barr 
