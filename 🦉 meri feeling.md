@@ -45,5 +45,7 @@ humari shadi k liye family nahi maan rahi aur financial issue chal rahe jo tum s
 
 muje maaf kardo pooja but koi nahi ye time hum dono milke strongly sath mai handle karnege 💕 , I am with you, ab kal sai mai roz aunga office ye understood hai in case tum nahi bhi bulana chiti mai aunga bat nahi karunga jab tak single na yaye 
 bas galti sai takraye to anakho sai haal le lenge ek dusre ka ,
- baki ek cheez aur video mai kaha ki tum financially improve hona chiti to job switch is option kyu, agar jab humari bat hogi na to hum dono milke padhai karenge okay 👍, suno mai physical to kabhi hona nahi chata hu na tha ,you know na ..tumari bas presence hogi to I have all the things , and family baad me Maan jayegai jab progress deskhgi hum kuch karne k liye aaye hai earth p kyu vese to we are from Mars kyu cowboy 🤠 🦋 
+
+ baki ek cheez aur video mai kaha ki tum financially improve hona chiti to job switch is option kyu, agar jab humari bat hogi na to hum dono milke padhai karenge okay 👍, so hum 3rd floor jaynge for padhai prem vali 😊 , not sandles suite by lemon 🍋 tree, sona nahi hai kyu abhi to jagge hai hum dono kyu?
+suno mai physical to kabhi hona nahi chata hu na tha ,you know na ..tumari bas presence hogi to I have all the things , and family baad me Maan jayegai jab progress deskhgi hum kuch karne k liye aaye hai earth p kyu vese to we are from Mars kyu cowboy 🤠 🦋 
 chalo mai aya tum khush raho kal milunga maybe 🤔 😂 , see you my 🦋 🦉 ❣️ watching...
