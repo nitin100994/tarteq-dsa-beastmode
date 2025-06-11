@@ -1,3 +1,11 @@
+same day below a realisation 
+🌺 
+I’ve not seen Mother Nature…
+but I’ve experienced her.
+And I think… when you love her,
+she loves you back with all prosperity.”
+🌺 
+
 12 june 1:02 am  maybe she finally reached me maybe I will see my 🦋 tomorrow feeling silence overwhelmed 
 🦉 💕 
 
