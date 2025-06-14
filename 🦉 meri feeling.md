@@ -1,3 +1,6 @@
+14 june 8:14 pm 
+aj kalesh hua pta hoga time , mai ayodhya sai aya ahu and ladai Karo achi maza aya mumy sai, inhone  phn kara tai ko and bat Kari ab suno jake 🦋 
+
 same day below a realisation 
 🌺 
 I’ve not seen Mother Nature…
